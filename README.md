@@ -31,7 +31,6 @@ I love collaborating with remote teams on mission-driven projects that blend tho
 </p>
 
 ---
-### Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Branea14&layout=compact&hide=html,css&theme=default)
 <!-- ### Proficiency
