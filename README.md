@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Erika!</h1>
-<p align="center">
+<h1 align="left">Hi, I'm Erika!</h1>
+<p align="left">
   <em>
     Former educator turned full-stack software engineer.<br>
     Driven by curiosity, creativity, and a love of learning.
@@ -58,7 +58,7 @@ I love collaborating with remote teams on mission-driven projects that blend tho
 > Internal equipment management for instructors—real-time status, check-in/out with audit logs, and Slack-based image approvals
 > _Tech Stack:_ React (Vite) • Express • Prisma/PostgreSQL • Supabase • Docker • Cloud Run • GCP IAP
 
-#### [Wonderhood](http://nextu.se/)
+#### [Wonderhood]
 > Enrollment for homeschool families, child profiles, instructor rosters with parent/emergency contacts, and admin email blasts & event management
 > _Tech Stack:_ FastAPI • JWT • PostgreSQL • React (Next.js)
 
@@ -75,9 +75,7 @@ I love collaborating with remote teams on mission-driven projects that blend tho
 
 ---
 
-<!--
-Add your social links here!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222?style=flat&logo=github&logoColor=white)](YOUR_PORTFOLIO_LINK)
--->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/erika-brandon-205b97234)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-222?style=flat&logo=github&logoColor=white)](YOUR_PORTFOLIO_LINK) -->
+
