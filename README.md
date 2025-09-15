@@ -1,4 +1,4 @@
-### About Me
+<h1>About Me</h1>
 
 Hi! I'm a former educator turned Full Stack Software Developer, passionate about building modern web and mobile applications that make a difference. The same 'light-bulb' moment I chased in the classroom is what I chase in code—when a fuzzy idea becomes a simple, shipped solution.
 
@@ -31,7 +31,9 @@ I love collaborating with remote teams on mission-driven projects that blend tho
 </p>
 
 ---
+### Most Used Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Branea14&layout=compact&hide=html,css&theme=default)
 <!-- ### Proficiency
 
 | Area              | Proficiency      |
@@ -39,8 +41,8 @@ I love collaborating with remote teams on mission-driven projects that blend tho
 | Frontend / Design | ██████████░░ 82% |
 | Backend           | ██████████░░ 86% |
 | Programming       | ██████████░░ 85% | -->
-<!--
---- -->
+
+--- 
 
 ### Featured Projects
 
