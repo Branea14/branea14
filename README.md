@@ -1,6 +1,6 @@
 <h1>About Me</h1>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/erika-brandon-205b97234)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-222?style=flat&logo=github&logoColor=white)](YOUR_PORTFOLIO_LINK) -->
+
 
 Hi! I'm a former educator turned Full Stack Software Developer, passionate about building modern web and mobile applications that make a difference. The same 'light-bulb' moment I chased in the classroom is what I chase in code—when a fuzzy idea becomes a simple, shipped solution.
 
