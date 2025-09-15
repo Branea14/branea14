@@ -1,13 +1,3 @@
-<h1 align="left">Hi, I'm Erika!</h1>
-<p align="left">
-  <em>
-    Former educator turned full-stack software engineer.<br>
-    Driven by curiosity, creativity, and a love of learning.
-  </em>
-</p>
-
----
-
 ### About Me
 
 Hi! I'm a former educator turned Full Stack Software Developer, passionate about building modern web and mobile applications that make a difference. The same 'light-bulb' moment I chased in the classroom is what I chase in code—when a fuzzy idea becomes a simple, shipped solution.
