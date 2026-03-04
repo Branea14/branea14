@@ -49,7 +49,7 @@ I love collaborating with remote teams on mission-driven projects that blend tho
 > Internal equipment management for instructors—real-time status, check-in/out with audit logs, and Slack-based image approvals
 > _Tech Stack:_ React (Vite) • Express • Prisma/PostgreSQL • Supabase • Docker • Cloud Run • GCP IAP
 
-#### [Wonderhood]
+#### [Wonderhood](https://whproject.org/)
 > Enrollment for homeschool families, child profiles, instructor rosters with parent/emergency contacts, and admin email blasts & event management
 > _Tech Stack:_ FastAPI • JWT • PostgreSQL • React (Next.js)
 
